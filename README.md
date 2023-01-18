@@ -1,1 +1,2 @@
-# miniRT / mate --> ple-lez "https://github.com/ple-lez"
+# miniRT
+project made with --> ple-lez "https://github.com/ple-lez"
