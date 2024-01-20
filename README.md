@@ -15,16 +15,16 @@ The goal is to be able to display geometric shapes such as spheres, cylinders, p
 
 ![Texte alternatif](./gallery/mult_triangles.png)
 
-```
+
 Once the triangles are created, we can have some fun.
-```
+
 
 ![Texte alternatif](./gallery/fox2.png)
 ![Texte alternatif](./gallery/dragon.png)
 
-```
+
 We can retrieve objects created in Blender, then by triangulating them, we can obtain the coordinates of the triangles in an STL file.
-```
+
 
 ![Texte alternatif](./gallery/gutsBlender.png)
 ![Texte alternatif](./gallery/guts.png)
