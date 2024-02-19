@@ -52,8 +52,6 @@ To run the program, provide the scene description file as the first argument:
 ./miniRT scene.rt
 ```
 
-##Dependencies
-  minilibX library
 
 
 ![Texte alternatif](./gallery/sphere_texture.png)
